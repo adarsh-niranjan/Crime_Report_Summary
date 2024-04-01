@@ -1,5 +1,5 @@
 # RED BLUE
-<img src="https://upload.wikimedia.org/wikipedia/sco/4/42/British_Airways_Logo.svg" width=400 height=100>
+<img src="![image](https://github.com/adiniranjan/Red_Blue/assets/79218352/6592e9a9-75eb-49fa-b4ac-53e9886ecd27)" width=400 height=100>
 
 ## *A brief case study on crime reports using python for data analysis* </br>
 
