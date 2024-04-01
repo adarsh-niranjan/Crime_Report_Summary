@@ -4,7 +4,7 @@
 ## *A brief case study on crime reports using python for data analysis* </br>
 
 ### Source:
-The **'red_blue_data.csv'** file contains all the data from which the Project was derived. <br>
+The **'red_blue_data.zip'** file contains all the data from which the Project was derived. <br>
 
 ### Red_Blue.ipynb:
 It is the Jupyter Notebook file.
