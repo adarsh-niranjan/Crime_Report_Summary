@@ -7,7 +7,7 @@
 The **'red_blue_data.zip'** file contains all the data from which the Project was derived. <br>
 
 ### Red_Blue.ipynb:
-It is the Jupyter Notebook file.
+It is the Jupyter Notebook project file.
 
 ## Details:
 **We will summarise different segments of crime reports like events, active-time, decriptions along with making suitable visualization**
