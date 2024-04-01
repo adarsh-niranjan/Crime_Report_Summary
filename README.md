@@ -1,5 +1,5 @@
 # RED BLUE
-<img src="https://static.vecteezy.com/system/resources/thumbnails/024/390/867/small_2x/police-siren-lights-beacon-flasher-policeman-car-flashing-light-and-red-blue-safety-sirens-illustration-vector.jpg" width=400 height=100>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/024/390/867/small_2x/police-siren-lights-beacon-flasher-policeman-car-flashing-light-and-red-blue-safety-sirens-illustration-vector.jpg" width=400 height=200>
 
 ## *A brief case study on crime reports using python for data analysis* </br>
 
