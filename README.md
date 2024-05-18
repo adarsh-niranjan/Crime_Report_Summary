@@ -10,4 +10,4 @@ The **'red_blue_data.zip'** file contains all the data from which the Project wa
 It is the Jupyter Notebook project file.
 
 ## Details:
-**We will analyze and visualize key segments of crime reports, including events, active times, and descriptions.**
+**This project explored a dataset with millions of crime records using Python. Utilizing libraries like NumPy, Pandas, and Seaborn, it conducted exploratory data analysis and visualized crime patterns through heatmaps and other techniques. This revealed peak hours and days for criminal activity, as well as the most prevalent crime types. These insights can inform resource allocation for law enforcement and targeted prevention strategies.**
